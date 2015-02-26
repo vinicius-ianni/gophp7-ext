@@ -12,5 +12,5 @@ It's time to make extensions first class citizens of the PHP community
   
 ## Get Involved
 
-All the information you need is on our site <http://lornajane.github.io/gophp7-ext/>
+All the information you need is on our site <http://gophp7.org/gophp7-ext/>
 
