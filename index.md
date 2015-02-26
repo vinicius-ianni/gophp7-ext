@@ -25,9 +25,20 @@ The idea is that as a community, this is important to us, and together we can us
 
 We've got various initiatives going on, jump in wherever you feel most comfortable.
 
-### Catalog PHP Extensions
+### Catalog PHP extensions
 
 We need to begin by collecting information to work out what is needed.  We'll be using our wiki to create a list of all the PHP extensions we can find out about and to record their status, their maintainers, and what work needs doing.  There is more information about this task on the [extensions catalog page](extensions-catalog.html).
+
+### Spread the Word
+
+We need to make sure that people know two things:
+
+ * Extensions will break under PHP 7 unless they are updated
+ * There are places they can help and get help to make that happen
+
+### Help us with development platforms
+
+We're going to need easy ways to help people get up and running.  To start with we're aiming for vagrant boxes to help with quick development setup (joepferguson is in charge) - besides using rasmus's excellent php7 box <https://atlas.hashicorp.com/rasmus/boxes/php7dev> we'll also need windows boxes, and possibly some different virtual backends (parallels, hyper-v, vmware) for the php7dev box beyond virtualbox
 
 ## Contact us
 
