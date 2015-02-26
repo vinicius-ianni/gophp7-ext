@@ -48,9 +48,14 @@ Please get in touch with maintainers and check whether they are still active - t
 
 Run the tests.  Bonus points if you can add more tests.
 
+Take a look at http://qa.php.net and learn to write .phpt tests (spoiler: they're really easy)
+
 ## Has documentation
 
-Where is the documentation?  Write or update as necessary
+Where is the documentation?  Some resources for you if you need to write or update the docs for an extension
+
+ * Take a look at http://doc.php.net/ to learn how to write php.net documentation
+ * Take a look at readthedocs.org to learn how to create offsite documentation
 
 ## Works on PHP5
 
