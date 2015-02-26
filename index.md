@@ -40,6 +40,10 @@ We need to make sure that people know two things:
 
 We're going to need easy ways to help people get up and running.  To start with we're aiming for vagrant boxes to help with quick development setup (joepferguson is in charge) - besides using rasmus's excellent php7 box <https://atlas.hashicorp.com/rasmus/boxes/php7dev> we'll also need windows boxes, and possibly some different virtual backends (parallels, hyper-v, vmware) for the php7dev box beyond virtualbox
 
+### Write the documentation for our helpers
+
+If you already know a bit about extensions, or you find more information somewhere (or overhear people getting help in channel), please take a moment to capture those thoughts and offer them as a pull request to this site.
+
 ## Contact us
 
 We're in #gophp7-ext on freenode, come and say hi!
