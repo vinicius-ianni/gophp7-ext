@@ -44,6 +44,10 @@ We're going to need easy ways to help people get up and running.  To start with 
 
 If you already know a bit about extensions, or you find more information somewhere (or overhear people getting help in channel), please take a moment to capture those thoughts and offer them as a pull request to this site.
 
+## What else is going on?
+
+We have rather a large TODO list [here](todo.html).
+
 ## Contact us
 
 We're in #gophp7-ext on freenode, come and say hi!
