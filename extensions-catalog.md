@@ -5,7 +5,7 @@ title: Go PHP 7 Extensions
 
 # Extensions Catalog
 
-This is a mammoth page on our wiki: <https://github.com/lornajane/gophp7-ext/wiki/extensions-catalog>.
+This is a mammoth page on our wiki: <https://github.com/gophp7/gophp7-ext/wiki/extensions-catalog>.
 
 It is divided into sections by extension type:
 
