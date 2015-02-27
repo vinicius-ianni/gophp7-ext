@@ -33,12 +33,12 @@ We need to begin by collecting information to work out what is needed.  We'll be
 
 We need to make sure that people know two things:
 
- * Extensions will break under PHP 7 unless they are updated
+ * Extensions will break under PHP7 unless they are updated
  * There are places they can help and get help to make that happen
 
 ### Help us with development platforms
 
-We're going to need easy ways to help people get up and running.  To start with we're aiming for vagrant boxes to help with quick development setup (joepferguson is in charge) - besides using rasmus's excellent php7 box <https://atlas.hashicorp.com/rasmus/boxes/php7dev> we'll also need windows boxes, and possibly some different virtual backends (parallels, hyper-v, vmware) for the php7dev box beyond virtualbox
+We're going to need easy ways to help people get up and running.  To start with we're aiming for vagrant boxes to help with quick development setup (joepferguson is in charge) - besides using rasmus's excellent PHP7 box <https://atlas.hashicorp.com/rasmus/boxes/php7dev> we'll also need windows boxes, and possibly some different virtual backends (parallels, hyper-v, vmware) for the php7dev box beyond virtualbox
 
 ### Write the documentation for our helpers
 
