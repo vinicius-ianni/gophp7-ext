@@ -257,6 +257,40 @@ form {
 }
 
 /*******************************************************************************
+Navigation Styles
+*******************************************************************************/
+
+nav ul {
+  padding: 0;
+  margin: 0;
+  font-size: 1.05em;
+}
+
+nav ul > li {
+  display: inline-block;
+}
+
+nav ul > li > a {
+  text-decoration: none;
+  padding: 3px 10px;
+  color: #fff;
+  background: #525252;
+}
+
+nav ul > li > a:hover, nav ul > li > a:focus {
+  text-decoration: none;
+}
+
+nav ul > li > a:hover {
+  background: #6C6C6C;
+}
+
+nav ul > li > a.active {
+  background-color: #f2f2f2;
+  color: #000;
+}
+
+/*******************************************************************************
 Full-Width Styles
 *******************************************************************************/
 
@@ -296,7 +330,7 @@ Full-Width Styles
 }
 
 #header_wrap .inner {
-  padding: 50px 10px 30px 10px;
+  padding: 50px 10px 0 10px;
 }
 
 #project_title {
@@ -356,7 +390,6 @@ Full-Width Styles
 
 #main_content_wrap {
   background: #f2f2f2;
-  border-top: 1px solid #111;
   border-bottom: 1px solid #111;
 }
 
