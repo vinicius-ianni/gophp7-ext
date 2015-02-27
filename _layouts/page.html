@@ -21,6 +21,20 @@
           <a href="/"><h1 id="project_title">Gophp7-ext</h1></a>
           <h2 id="project_tagline">Home of the gophp7 extensions project</h2>
 
+          <nav>
+            <ul>
+              {% assign url = page.url|remove:'index.html' %}
+              {% for link in site.navigation %}
+                {% assign active = nil %}
+                {% if url == link.url or page.layout == link.layout %}
+                  {% assign active = 'active' %}
+                {% endif %}
+                <li class="{% if forloop.first %}first{% endif %} {{ active }} {% if forloop.last %}last{% endif %}">
+                  <a class="{{ active }}" href="{{ link.url }}">{{ link.text }}</a>
+                </li>
+              {% endfor %}
+            </ul>
+          </nav>
         </header>
     </div>
 

@@ -1,1 +1,9 @@
 baseurl:    /
+
+navigation:
+    - text: Home
+      url: /
+    - text: Todo
+      url: /todo.html
+    - text: Catalog
+      url: /extensions-catalog.html
