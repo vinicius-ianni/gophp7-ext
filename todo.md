@@ -3,7 +3,7 @@ layout: page
 title: Go PHP 7 Extensions
 ---
 
-# GoPHP7 Ext Todo List
+# GoPHP7-ext Todo List
 
 These tasks need input from specific people, or more thought, before they can are useful for the wider community to get involved with.
 

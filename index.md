@@ -3,11 +3,11 @@ layout: page
 title: Go PHP 7 Extensions
 ---
 
-# goPHP7 (extensions)
+# GoPHP7 (extensions)
 
 It's time to make extensions first class citizens of the PHP community
  
-## The goals of gophp7(ext)
+## The goals of GoPHP7-ext
 
  1. Get PHP extensions running "out of the box" when PHP7 is released (no lag time)
  2. Make extensions in general easier to install and use (binaries, ppas)
