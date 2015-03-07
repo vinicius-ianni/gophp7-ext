@@ -7,3 +7,13 @@ navigation:
       url: /todo.html
     - text: Catalog
       url: /extensions-catalog.html
+    - text: Blog
+      url: /blog.html
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "blog"
